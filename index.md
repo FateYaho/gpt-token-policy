@@ -19,4 +19,4 @@ The permissions requested by the Extension (scripting, activeTab, tabs, storage,
 
 ### Contact
 If you have any questions regarding this Privacy Policy, please contact the developer at:  
-(youremail@example.com)
+(skbbb3@gmail.com)
